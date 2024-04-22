@@ -87,18 +87,7 @@ const Contact = () => {
                     options: "default",
                     message: ""
                 });
-            } else {
-                toast.error('An error occurred, Please try again later!!!', { //Using react-toastify when erroe occurre
-                    position: "top-center",
-                    autoClose: 3000,
-                    hideProgressBar: false,
-                    closeOnClick: true,
-                    pauseOnHover: true,
-                    draggable: true,
-                    progress: undefined,
-                    theme: "dark",
-                });
-            }
+            } 
 
 
         };
