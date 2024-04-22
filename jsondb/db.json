@@ -1,0 +1,149 @@
+{
+  "flex": [
+    {
+      "id": "pd1",
+      "title": "Tasty Pizza",
+      "content": "It's hot, and succulent at the same time. It's truly a wonderful taste when you take first bite and the sound it makes.",
+      "img": "./images/pizza.jpeg"
+    },
+    {
+      "id": "pd2",
+      "title": "Cheesy Burger",
+      "content": "Crispy seasoned chicken breast, topped with melted cheese, piled onto soft rolls with onion, tomato and garlic mayo.",
+      "img": "./images/burger.jpeg"
+    },
+    {
+      "id": "pd3",
+      "title": "Spicy Shawarma",
+      "content": "Fiery Chicken Shawarma: slow-roasted for smoky flavor. Packed with a spicy kick and cooled by creamy tahini.",
+      "img": "./images/sawarma.jpeg"
+    },
+    {
+      "id": "pd2",
+      "title": "Cheesy Burger",
+      "content": "Sample content for our product 2",
+      "img": "./images/salad.jpeg"
+    }
+  ],
+  "grid": [
+    {
+      "id": "pd1",
+      "title": "Healthy Salad",
+      "content": "Crispy seasoned chicken breast, topped with melted cheese, piled onto soft rolls with onion, tomato and garlic mayo.",
+      "img": "./images/salad.jpeg"
+    },
+    {
+      "id": "pd2",
+      "title": "Microwe Fried Chicken",
+      "content": "Crispy seasoned chicken breast, topped with melted cheese, piled onto soft rolls with onion, tomato and garlic mayo.",
+      "img": "./images/mfc.jpeg"
+    },
+    {
+      "id": "pd3",
+      "title": "Creamy twist",
+      "content": "Crispy seasoned chicken breast, topped with melted cheese, piled onto soft rolls with onion, tomato and garlic mayo.",
+      "img": "./images/twist.jpeg"
+    },
+    {
+      "id": "pd4",
+      "title": "Crunchy Fries",
+      "content": "Crispy seasoned chicken breast, topped with melted cheese, piled onto soft rolls with onion, tomato and garlic mayo.",
+      "img": "./images/frenchfries.jpeg"
+    },
+    {
+      "id": "pd5",
+      "title": "Yummy BBQ",
+      "content": "Crispy seasoned chicken breast, topped with melted cheese, piled onto soft rolls with onion, tomato and garlic mayo.",
+      "img": "./images/bbq.jpeg"
+    },
+    {
+      "id": "pd6",
+      "title": "Tasty Noodles",
+      "content": "Crispy seasoned chicken breast, topped with melted cheese, piled onto soft rolls with onion, tomato and garlic mayo.",
+      "img": "./images/noodles.jpeg"
+    }
+  ],
+  "form": [
+    {
+      "firstName": "test",
+      "lastName": "test",
+      "email": "test@test.test",
+      "phoneNumber": "123456789",
+      "options": "order",
+      "message": "test test test",
+      "id": 1
+    },
+    {
+      "firstName": "sxsx",
+      "lastName": "xsxs",
+      "email": "swwded@gmail.com",
+      "phoneNumber": "1221212",
+      "options": "order",
+      "message": "wxwx",
+      "id": 2
+    },
+    {
+      "firstName": "kobi",
+      "lastName": "gowmy",
+      "email": "wdede@gail.com",
+      "phoneNumber": "324566",
+      "options": "order",
+      "message": "edefr",
+      "id": 3
+    },
+    {
+      "firstName": "yguy",
+      "lastName": "jhvjh",
+      "email": "cc@gg.fty",
+      "phoneNumber": "56465",
+      "options": "complient",
+      "message": "hgujy",
+      "id": 4
+    },
+    {
+      "firstName": "ghxfg",
+      "lastName": "ghgh",
+      "email": "fhgdgd@fgh.gyjhy",
+      "phoneNumber": "4445",
+      "options": "order",
+      "message": "hfgh",
+      "id": 5
+    },
+    {
+      "firstName": "hfghgh",
+      "lastName": "fghxfgh",
+      "email": "fgh@gh.hgh",
+      "phoneNumber": "45245",
+      "options": "order",
+      "message": "ghgfh",
+      "id": 6
+    },
+    {
+      "firstName": "testing",
+      "lastName": "testing",
+      "email": "testing@testing.ghg",
+      "phoneNumber": "857557",
+      "options": "order",
+      "message": "dfdfs",
+      "id": 7
+    },
+    {
+      "firstName": "fdf",
+      "lastName": "fdc",
+      "email": "fffv@dfgfdg.gfh",
+      "phoneNumber": "43543",
+      "options": "order",
+      "message": "fgf",
+      "id": 8
+    },
+    {
+      "firstName": "nish",
+      "lastName": "mahan",
+      "email": "nisha@gmail.com",
+      "phoneNumber": "2540254",
+      "options": "order",
+      "message": "rfggfdgfdg",
+      "id": 9
+    }
+  ]
+}
