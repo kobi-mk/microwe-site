@@ -1,6 +1,6 @@
-import React, { useEffect, useState } from 'react';
+// import React, { useEffect, useState } from 'react';
 import FlexProduct from './FlexProduct';
-import axios from 'axios';
+// import axios from 'axios';
 
 const Flex = () => {
     // const [products, setProducts] = useState([]);
